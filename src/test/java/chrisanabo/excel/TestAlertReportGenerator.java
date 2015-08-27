@@ -6,8 +6,8 @@ import java.util.Map;
 import org.junit.Before;
 import org.junit.Test;
 
-import chrisanabo.excel.alert.AlertReportGenerator;
-import chrisanabo.excel.util.AlertMsgParser;
+import chrisanabo.jdbctemplate.alert.AlertReportGenerator;
+import chrisanabo.jdbctemplate.util.AlertMsgParser;
 
 public class TestAlertReportGenerator {
 

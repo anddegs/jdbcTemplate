@@ -1,6 +1,5 @@
 package chrisanabo.excel;
 
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -8,7 +7,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import chrisanabo.excel.util.AlertMsgParser;
+import chrisanabo.jdbctemplate.util.AlertMsgParser;
 
 public class TestAlertMsgParser {
 
